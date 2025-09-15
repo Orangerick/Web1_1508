@@ -1,0 +1,19 @@
+body{ background-color: aquamarine;
+}
+
+h1 { color: antiquewhite;
+    font-size: 3em; 
+text-align: center;}
+
+/* Clases */
+parrafo1 {
+    color: brown;
+    background-color: burlywood;
+    font-size: 3em;
+}
+/* id de declaracion -> # */
+
+#parrafo2{text-align: center;
+    color: chocolate;
+    background-color: cornflowerblue;
+}
